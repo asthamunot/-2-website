@@ -9,6 +9,9 @@ body{
     font-family: 'Abel', serif;
  
 }
+.plan_head{
+text-align:center;
+}
 .header{
     width:80%;
     Margin:0 auto; 
